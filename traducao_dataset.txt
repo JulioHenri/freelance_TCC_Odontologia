@@ -1,0 +1,28 @@
+TRADUÇÃO PLANILHA 'DATASET'
+
+Respostas à planilha.
+1 = Nada
+
+2 = Pouco
+
+3 = Moderado
+
+4 = Muito
+
+5 = Totalmente
+
+Tradução nomes Colunas 
+
+q1 = Quanto você acredita conhecer sobre o Instagram como ferramenta de marketing?
+
+q2 = Quanto você acha necessário contratar empresas especializadas para gerenciar seu perfil?
+
+q3 = O quanto você acredita ser importante postar fotos todos os dias?
+
+q4 = O quanto você acredita ser importante postar stories?
+
+q5 = O quanto você acredita ser importante o numero de visualizações nos stories?
+
+q6 = O quanto você acredita ser importante o numero de curtidas nas postagens?
+
+q7 = O quanto você tem conversão de seguidores em pacientes?
