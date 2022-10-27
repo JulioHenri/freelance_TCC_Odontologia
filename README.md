@@ -7,6 +7,7 @@ O presente relatório tem por objetivo apresentar, explorar e analisar o banco d
 Primeiramente foi realizado uma Análise Fatorial nas variáveis do banco de dados para analisarmos de maneira mais profunda e ver o quão explicativo cada fator pode ser. Após isso, foi utilizado do teste de confiabilidade por meio do Alfa de Cronbach para confirmar a consistência do questionário respondido, e por fim, foi necessário fazer um Teste de Aderência para comparar a amostra com uma distribuição de probabilidade teórica.
 
 A amostra foi obtida por meio de respostas de um formulário do Google Forms (em formato xlsx), no qual foram escolhidas 7 perguntas específicas que tem os cirurgiões dentistas como público alvo. Abaixo estão apresentadas as perguntas e no banco de dados foram substituídas por q1, q2, q3, q4, q5, q6 e q7, respectivamente:
+
 1 - Quanto você acredita conhecer sobre o Instagram como ferramenta de marketing?
 
 2- Quanto você acha necessário contratar empresas especializadas para gerenciar seu perfil?
