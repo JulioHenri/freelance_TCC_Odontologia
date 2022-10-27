@@ -8,11 +8,17 @@ Primeiramente foi realizado uma Análise Fatorial nas variáveis do banco de dad
 
 A amostra foi obtida por meio de respostas de um formulário do Google Forms (em formato xlsx), no qual foram escolhidas 7 perguntas específicas que tem os cirurgiões dentistas como público alvo. Abaixo estão apresentadas as perguntas e no banco de dados foram substituídas por q1, q2, q3, q4, q5, q6 e q7, respectivamente:
 1 - Quanto você acredita conhecer sobre o Instagram como ferramenta de marketing?
+
 2- Quanto você acha necessário contratar empresas especializadas para gerenciar seu perfil?
+
 3- O quanto você acredita ser importante postar fotos todos os dias?
+
 4- O quanto você acredita ser importante postar stories?
+
 5- O quanto você acredita ser importante o número de visualizações nos stories?
+
 6- O quanto você acredita ser importante o número de curtidas nas postagens?
+
 7- O quanto você tem conversão de seguidores em pacientes?
 
  
